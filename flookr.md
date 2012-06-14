@@ -4,7 +4,7 @@ abstract: A Flickr/Google Maps mashup
 tags: web
 template: project.jade
 url: http://flookr.tlvince.com
-image_url: http://tlvince.appspot.com/img/th/flookr.png
+image_url: /assets/img/flookr.png
 tech: Flickr API, Google Maps API, PHP, jQuery, REST
 
 flookr is a Flickr/Google Maps mashup.
@@ -14,5 +14,3 @@ Aggregating many open source services, I used server-side scripting to serve
 dynamic content from *Flickr*. From given search terms, geo-tagged photos are
 displayed on a *Google Map* and within a *JQuery*-powered gallery.
 
-  [fth]: http://tlvince.appspot.com/img/th/flookr.png
-  [flookr]: http://flookr.tlvince.com

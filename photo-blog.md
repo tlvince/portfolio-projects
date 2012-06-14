@@ -4,7 +4,7 @@ abstract: Photoblogging with Jekyll and Bootstrap
 tags: web
 template: project.jade
 url: http://photo.tlvince.com
-image_url: http://tlvince.appspot.com/img/th/photo.tlvince.png
+image_url: /assets/img/photo.tlvince.png
 tech: Ruby, Liquid, Twitter Bootstrap, HTML5, CSS3, Git, Heroku
 
 My **photo blog** showcases some of my favourite photos from my collection.
@@ -25,8 +25,6 @@ provider plugin][sp] for Jekyll Bootstrap, a [simple `Rake` task][rake] that
 uses the [fleakr][] gem to generate new blog posts from given flickr URLs and
 shared the [frontend design][jbtheme] as a Jekyll Bootstrap compliant theme.
 
-  [pth]: http://tlvince.appspot.com/img/th/photo.tlvince.png
-  [photob]: http://photo.tlvince.com
   [jb]: http://jekyllbootstrap.com/
   [jbgh]: https://github.com/plusjade/jekyll-bootstrap
   [herokubp]: https://devcenter.heroku.com/articles/third-party-buildpacks#using_a_custom_buildpack

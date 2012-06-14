@@ -4,7 +4,7 @@ abstract: A recording studio and sound engineering venture
 tags: web audio
 template: project.jade
 url: http://tvsudios.tlvince.com
-image_url: http://tlvince.appspot.com/img/th/tvstudios.png
+image_url: /assets/img/tvstudios.png
 tech: Cubase, VST plugins, sequencing
 
 **TV Studios** is my sound engineering venture.
