@@ -4,6 +4,7 @@ abstract: A Linux shell script to keep your home directory clean
 tags: linux
 template: project.jade
 url: https://github.com/tlvince/prowler
+image_url: /assets/img/prowler.png
 tech: linux, inotify, shell
 
 prowler is a shell script that uses `inotify` to automatically deletes files and
