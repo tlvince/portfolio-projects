@@ -3,85 +3,11 @@ date: 2012-02-17
 abstract: The evolution of my website
 tags: web
 template: project.jade
+url: http://tlvince.com
+image_url: http://tlvince.appspot.com/img/th/tlvince.com_2012-02-17.png
+tech: Ruby, HTML5, CSS, Git, Javascript, wordpress
 
-Building websites as a hobby since 2005, it was only a matter of time before I
-made one for myself. It has served as an ongoing experiment ever since. This
-post details its evolution, in reverse chronological order.
+My websites has seen many changes throughout the years and has served as an
+ongoing experiement. See [the write up][wup] for more information.
 
-## Third iteration
-
-[![A screenshot of tlvince.com circa May 2011][thirdth]][third]
-
-The third iteration saw a major rewrite from [Wordpress to toto][wp2toto]. I
-wanted to see how far I could take minimalism: this iteration runs on toto, a
-tiny Ruby-based blog engine.
-
-Gone was the bloated MySQL database-PHP combination; replaced with a subtle
-blend of plain-text files, `git` and Heroku. Everything is based on open source
-software, [even the site itself][gh].
-
-The design compliments the backend minimalism. Aiming to be as readable as
-possible, it uses a [warm colour pallette][solarized] and focuses purely on the
-*content*.
-
-## Second iteration
-
-[![A screenshot of tlvince.com circa July 2007][second1th]][second1]
-
-From humble beginnings of handwritten HTML, I next dived into Wordpress; the
-PHP-powered blogging engine, using the fantastic [Journalist theme][journo] by
-Lucian E. Marin. The purpose of my site changed from less of a programming
-experiment, more of a blogging experiment.
-
-[![A screenshot of tlvince.com circa Februrary 2011][second2th]][second2]
-
-For my [year in Hong Kong][hk], I updated to the default [Twenty Ten][2010]
-theme, with a banner of [Victoria Harbour][vh].
-
-## First iteration
-
-[![A screenshot of tlvince.com circa Jan 2007][first1th]][first1]
-
-`tlvince.com` was born circa January, 2007. Initiated from a school interest,
-this baby was a `notepad` masterpiece (or so I thought at the time). I was
-learning CSS, evident by the curious `div` background colours. I'm not sure it
-ever worked in the new browser on the block: Firefox 2, but why would anyone
-click on anything but the "blue e"?
-
-## Technologies
-
-This project uses the following web technologies:
-
-### Third iteration
-
-* Ruby (toto, rack)
-* HTML 5 boilerplate
-* CSS 3
-* Javascript (Disqus, hyphenator)
-* Git
-* Heroku
-
-### Second iteration
-
-* Wordpress (PHP)
-
-### First iteration
-
-* HTML
-* CSS
-
-  [first1]: http://tlvince.appspot.com/img/tlvince.com_2007-01-01_01.png
-  [first1th]: http://tlvince.appspot.com/img/th/tlvince.com_2007-01-01_01.png
-  [second1]: http://tlvince.appspot.com/img/tlvince.com_2007-07-03.png
-  [second1th]: http://tlvince.appspot.com/img/th/tlvince.com_2007-07-03.png
-  [second2]: http://tlvince.appspot.com/img/tlvince.com_2011-02-27.png
-  [second2th]: http://tlvince.appspot.com/img/th/tlvince.com_2011-02-27.png
-  [third]: http://tlvince.appspot.com/img/tlvince.com_2012-02-17.png
-  [thirdth]: http://tlvince.appspot.com/img/th/tlvince.com_2012-02-17.png
-  [wp2toto]: /2011/05/27/wordpress-to-toto/
-  [gh]: https://github.com/tlvince/tlvince.com
-  [solarized]: http://ethanschoonover.com/solarized
-  [journo]: https://wordpress.org/extend/themes/journalist
-  [hk]: /2010/09/12/a-brief-guide-to-hong-kong/
-  [2010]: http://2010dev.wordpress.com/
-  [vh]: https://en.wikipedia.org/wiki/Victoria_harbour
+  [wup]: http://tlvince.com/2012/02/17/tlvince/

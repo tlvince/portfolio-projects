@@ -3,11 +3,12 @@ date: 2011-12-09
 abstract: Packet sniff media hosting websites for Flash-free consumption
 tags: linux
 template: project.jade
+url: https://github.com/tlvince/sniffy
+image_url: http://tlvince.appspot.com/img/th/sniffy.png
+tech: Python
 
-[![Video demonstration of sniffy][sth]][vid]
-
-**[sniffy][]** monitors network traffic for media hosting websites and streams
-them in your favourite media player.
+**sniffy** monitors network traffic for media hosting websites and streams them
+in your favourite media player.
 
 Written out of frustration with the reliance of Flash for media on the web,
 `sniffy` is designed to be as portable and autonomous as possible. Leveraging
@@ -24,14 +25,6 @@ media player.
 > Write programs that do one thing and do it well. Write programs to work
 > together. Write programs to handle text streams, because that is a universal
 > interface.
-
-## Technologies
-
-This project uses the following technologies:
-
-* Python
-* `pcap`
-* `quvi`
 
   [sth]: http://tlvince.appspot.com/img/th/sniffy.png
   [sniffy]: https://github.com/tlvince/sniffy

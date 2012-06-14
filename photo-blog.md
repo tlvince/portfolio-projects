@@ -3,11 +3,11 @@ date: 2012-05-22
 abstract: Photoblogging with Jekyll and Bootstrap
 tags: web
 template: project.jade
+url: http://photo.tlvince.com
+image_url: http://tlvince.appspot.com/img/th/photo.tlvince.png
+tech: Ruby, Liquid, Twitter Bootstrap, HTML5, CSS3, Git, Heroku
 
-[![A screenshot of my photo blog][pth]][photob]
-
-My **[photo blog][photob]** showcases some of my favourite photos from my
-collection.
+My **photo blog** showcases some of my favourite photos from my collection.
 
 This project experiments with a few of the latest web trends. Under the hood,
 the website is generated from plain-text files into HTML using [Jekyll][]. The
@@ -24,17 +24,6 @@ I contributed back to the community by implementing a Javascript-free [sharing
 provider plugin][sp] for Jekyll Bootstrap, a [simple `Rake` task][rake] that
 uses the [fleakr][] gem to generate new blog posts from given flickr URLs and
 shared the [frontend design][jbtheme] as a Jekyll Bootstrap compliant theme.
-
-## Technologies
-
-This project uses the following web technologies:
-
-* Ruby
-* Liquid templating
-* Twitter Bootstrap
-* HTML5
-* CSS3 (`@font-face`)
-* Git/Heroku deployment
 
   [pth]: http://tlvince.appspot.com/img/th/photo.tlvince.png
   [photob]: http://photo.tlvince.com

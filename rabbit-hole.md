@@ -3,10 +3,11 @@ date: 2011-12-08
 abstract: A puzzle landing page
 tags: web
 template: project.jade
+url: http://rabbit-hole.tlvince.com
+image_url: http://tlvince.appspot.com/img/th/rabbit-hole.png
+tech: jQuery, Heroku, Git
 
-[![A screenshot of the rabbit hole][rth]][rabbit]
-
-**[Rabbit Hole][rabbit]** is a puzzle landing page.
+**Rabbit Hole** is a puzzle landing page.
 
 As part of a grander scheme of puzzles, this project served primarily as a
 refresher in graphics editing and composition techniques, complete with a
@@ -16,16 +17,6 @@ refresher in graphics editing and composition techniques, complete with a
 
 * Beetle image --- "[Back to the future][beetle]" --- by Jairo BD
 * Flag (background) --- "[Happy Canada Day!][flag]" --- by Ian Muttoo
-
-## Technologies
-
-This project uses the following technologies:
-
-* jQuery (Javascript)
-* Heroku
-* Git
-* GIMP (GNU Image Manipulation Program)
-* HTML5 Boilerplate
 
   [rth]: http://tlvince.appspot.com/img/th/rabbit-hole.png
   [rabbit]: http://rabbit-hole.tlvince.com
