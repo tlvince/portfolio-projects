@@ -1,7 +1,8 @@
 title: TV Studios
 date: 2007-01-10
 abstract: A recording studio and sound engineering venture
-tags: project web audio
+tags: web audio
+template: project.jade
 
 [![A screenshot of the TV Studios website][th]][tv]
 

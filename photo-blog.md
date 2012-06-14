@@ -1,7 +1,8 @@
 title: Photo blog
 date: 2012-05-22
 abstract: Photoblogging with Jekyll and Bootstrap
-tags: project web
+tags: web
+template: project.jade
 
 [![A screenshot of my photo blog][pth]][photob]
 

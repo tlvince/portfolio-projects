@@ -1,7 +1,8 @@
 title: Rabbit Hole
 date: 2011-12-08
 abstract: A puzzle landing page
-tags: project web
+tags: web
+template: project.jade
 
 [![A screenshot of the rabbit hole][rth]][rabbit]
 

@@ -1,7 +1,8 @@
 title: Sniffy
 date: 2011-12-09
 abstract: Packet sniff media hosting websites for Flash-free consumption
-tags: project
+tags: linux
+template: project.jade
 
 [![Video demonstration of sniffy][sth]][vid]
 

@@ -1,7 +1,8 @@
 title: Metal Militia
 date: 2006-12-10
 abstract: A band community website
-tags: project web
+tags: web
+template: project.jade
 
 [![Screenshot of the Metal Militia homepage][th]][mm]
 
