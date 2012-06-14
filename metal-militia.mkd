@@ -1,5 +1,5 @@
 title: Metal Militia
-date: 10/12/2006
+date: 2006-12-10
 abstract: A band community website
 tags: project web
 

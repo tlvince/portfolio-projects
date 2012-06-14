@@ -1,5 +1,5 @@
 title: TV Studios
-date: 10/01/2007
+date: 2007-01-10
 abstract: A recording studio and sound engineering venture
 tags: project web audio
 

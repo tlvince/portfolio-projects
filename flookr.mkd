@@ -1,5 +1,5 @@
 title: flookr
-date: 08/12/2011
+date: 2011-12-08
 abstract: A Flickr/Google Maps mashup
 tags: project web
 

@@ -1,5 +1,5 @@
 title: Photo blog
-date: 22/05/2012
+date: 2012-05-22
 abstract: Photoblogging with Jekyll and Bootstrap
 tags: project web
 
