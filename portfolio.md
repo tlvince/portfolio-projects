@@ -2,7 +2,7 @@ title: Portfolio
 date: 2012-06-15
 abstract: A portfolio site powered by Node.js
 template: project.jade
-image_url: /assets/img/photo.png
+image_url: /assets/img/portfolio.png
 tech: Node.js, wintersmith, stylus, jade, Bootstrap, Font Awesome, git, heroku
 tags: web
 url: http://portfolio.tlvince.com
