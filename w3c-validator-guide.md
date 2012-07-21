@@ -1,5 +1,5 @@
 title: W3C Validator Guide
-date: 2012-07-21
+date: 2012-07-02
 abstract: A build guide for the W3C HTML validator
 template: project.jade
 image_url: /assets/img/w3c-validator-guide.png
