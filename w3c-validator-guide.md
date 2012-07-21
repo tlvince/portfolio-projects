@@ -22,7 +22,7 @@ order to guarantee reproducibility.
 > communication has been very responsive and friendly, and he got the mission
 > accomplished really fast.
 > 
-> --- Jaime Iniesta, W3CLove founder
+> --- <cite>Jaime Iniesta</cite>, W3CLove founder
 
   [gun.io]: http://gun.io/open/58/
   [w3clove]: http://w3clove.com/
