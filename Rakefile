@@ -13,7 +13,7 @@ task :new do
   project << "date: #{Time.now.strftime("%Y-%m-%d")}\n"
   project << "abstract:\n"
   project << "template: project.jade\n"
-  project << "image_url:\n"
+  project << "image_url: /assets/img/#{slug}.png\n"
   project << "tech:\n"
   project << "tags:\n"
   project << "url:\n"
