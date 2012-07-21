@@ -11,7 +11,7 @@ The **W3C Validator Guide** provides a simple walk-through to build the W3C HTML
 validation service from its source.
 
 Written in collaboration with the developers of [W3CLove][] from a [Gun.io
-open source gig][], I used [Vagrant][] to manage a virtualised environment in
+open source gig][gun.io], I used [Vagrant][] to manage a virtualised environment in
 order to guarantee reproducibility.
 
   [gun.io]: http://gun.io/open/58/
