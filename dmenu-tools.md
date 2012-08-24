@@ -4,7 +4,7 @@ abstract: A collection of scripts powered by dmenu
 template: project.jade
 image_url: /assets/img/dmenu-tools.png
 tech: Shell, git
-tags: Linux
+tags: linux
 url: http://tlvince.github.com/dmenu-tools/
 
 **dmenu-tools** is a collection of scripts powered by [dmenu][].
