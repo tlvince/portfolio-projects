@@ -1,6 +1,6 @@
 title: Outcomes of Care
 date: 2012-08-08
-abstract: A 3 year research project evaluating outcomes for care leavers
+abstract: A three year research project evaluating outcomes for care leavers
 template: project.jade
 image_url: /assets/img/outcomes-of-care.png
 tech: CakePHP, LAMP, Qualtrics
