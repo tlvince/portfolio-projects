@@ -14,7 +14,7 @@ the website is generated from plain-text files into HTML using [Jekyll][]. The
 design builds upon the prolific [Twitter Bootstrap][bs] framework, glued
 together with [Jekyll Bootstrap][jb].
 
-Customisations appear in the form of a subtle noise-textured background (a
+Customisation's appear in the form of a subtle noise-textured background (a
 current trend), replacing the stock Glyphicons with the awesome [Font
 Awesome][fa] and a paginated view. Indeed, other than the photos themselves, no
 other images are used on the site: the icons use web fonts and the [CSS3

@@ -11,7 +11,7 @@ url: http://tlvince.github.com/dmenu-tools/
 
 This project aims to provide a community-driven suite of useful dmenu utilities.
 Each script is written in pure POSIX for greater portability. True to the "[suck
-less philosophy][philosophy]", the scripts focus on simplicy, clarity and
+less philosophy][philosophy]", the scripts focus on simplicity, clarity and
 frugality.
 
   [dmenu]: http://tools.suckless.org/dmenu/

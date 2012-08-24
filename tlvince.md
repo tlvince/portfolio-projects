@@ -8,6 +8,6 @@ image_url: /assets/img/tlvince.com_2012-02-17.png
 tech: Ruby, HTML5, CSS, Git, Javascript, wordpress
 
 My website has seen many changes throughout the years and has served as an
-ongoing experiement. See [the write up][wup] for more information.
+ongoing experiment. See [the write up][wup] for more information.
 
   [wup]: http://tlvince.com/2012/02/17/tlvince/
