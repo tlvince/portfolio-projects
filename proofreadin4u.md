@@ -10,6 +10,6 @@ url: http://proofreadin4u.co.uk/
 **Proofreadin4u** provide proof reading and editing services for academic and
 business purposes.
 
-Using their existing CakePHP-powered website, I provided maintenance work on
-the calculation logic (a key component of the service) and email notification
+Using their existing CakePHP-powered website, I provided maintenance work on the
+calculation logic (a key component of the website) and email notification
 system.
