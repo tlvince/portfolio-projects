@@ -23,5 +23,5 @@ system.
 > working and have already received many enquiries from prospective customers.
 > 
 > Thank you very much Tom and we will definitely use your skills in the future.
-> 
-> <small><cite>Sandra Watson</cite>, Proofreadin4u founder<small>
+>
+> <small><cite>Sandra Watson</cite>, Proofreadin4u founder</small>
