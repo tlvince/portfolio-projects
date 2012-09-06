@@ -12,9 +12,9 @@ url: http://tlvince.github.com/periodical/
 Periodical turns cluttered webpages into clean, distraction-free articles
 suitable for reading on an e-reader.
 
-Under the hood, it integrates [boilerpipe][] for content extraction and uses
-[KindleGen][] to create a pleasant, newspaper-like ebook. Example Linux scripts
+Under the hood, it integrates [boilerpipe][] for content extraction and
+[kindlegen][] to create a pleasant, newspaper-like ebook. Example Linux scripts
 are provided for 'Send-to-Kindle' functionality.
 
-  [kindlgen]: https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211
+  [kindlegen]: https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211
   [boilerpipe]: https://code.google.com/p/boilerpipe/
