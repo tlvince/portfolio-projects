@@ -11,7 +11,7 @@ url: http://ncercc.org
 residential child care practitioners, delivering evidence and experience informed
 leadership for improvements in policy and practice.
 
-In collaboration with [IntelliMedia][], I help take the project from an early
+In collaboration with [IntelliMedia][], I helped take the project from an early
 prototype to a fully realised product. Key responsibilities included extending
 the site's content management system, adding dynamic page elements and launching
 the completed site.
