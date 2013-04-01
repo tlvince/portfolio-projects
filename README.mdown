@@ -2,6 +2,6 @@
 
 A project "journal". Primarily used in [http://portfolio.tlvince.com][1].
 
-Copyright 2012 Tom Vincent <http://tlvince.com/contact/>
+Copyright 2013 Tom Vincent <http://tlvince.com/contact/>
 
   [1]: http://portfolio.tlvince.com
